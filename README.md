@@ -19,3 +19,6 @@ THEN I find that they fall in sequential order</li>
 THEN I find a concise, descriptive title</li>
 </ul>
 
+## Deployed
+
+<h3>https://candiecane7.github.io/SEO_Refactor/</h3>
