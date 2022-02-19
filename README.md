@@ -1,4 +1,3 @@
-# SEO_Refactor
 <h1>SEO Refactor</h1>
 
 <h3>My first challenge in relation to code refactoring. I had to refactor an existing webpage to make it accessible and to improve SEO. </h3>
